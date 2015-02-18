@@ -10,5 +10,5 @@
 * [1.6](1.6.md)
 * [1.7](1.7.md)
 * [1.8](1.8.md)
-* [preface](perface.md)
+* [preface](preface.md)
 
